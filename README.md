@@ -13,6 +13,7 @@ This Repository demonstrates the setup of Monitoring using Actuator, Prometheus,
             <li>spring-boot-starter - There are around 50+ Spring Boot Starters for different Spring and related technologies. These starters give all the dependencies under a single name </li>
             <li>spring-boot-starter-web - Spring Boot DevTools pick up the changes and restart the application </li>
             <li>spring-boot-starter-actuator - Actuator is mainly used to expose operational information about the running application — health, metrics, info, dump, env, etc. It uses HTTP endpoints or JMX beans to enable us to interact with it.</li>
+            <li>micrometer-registry-prometheus - Application monitoring instrumentation facade</li>
         </ol>
     </li>
     <li>
